@@ -1,0 +1,18 @@
+{
+  "name": "blogg",
+  "version": "1.0.0",
+  "description": "It's a complete bolg website. A site that connects the readers to the writers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Yash Vardhan Singh",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.19.1"
+  }
+}
